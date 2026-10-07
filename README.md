@@ -65,6 +65,8 @@ Even the launch film is code: 27 shader scenes, era-specific typography and a sc
 
 **[Exlipse](https://github.com/xmaxco/exlipse)** — why did that meme token move?<br>
 <sub>Dated on-chain and social evidence · confidence · base rates · Solana first · early access</sub>
+<br>
+<sub>Built under the guidance of the <a href="https://wowmax.exchange">WOWMAX</a> team.</sub>
 
 <br>
 
